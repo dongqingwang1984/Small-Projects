@@ -1,0 +1,2 @@
+2015-11-04 00:18:52 | Logs Cleared: by User ID 1
+2015-11-04 00:22:17 | Login: test_user_1 logged in.
